@@ -1,0 +1,15 @@
+{
+  "name": "testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "uswap_sdk_v2_polygonzkevm_cardona": "^1.0.0",
+    "@uniswap/sdk": "file:/v2-sdk"
+  }
+}
