@@ -2575,7 +2575,7 @@
   integrity sha512-2yK7sLpKIT91TiS5sewHtOa7YuM8IuBXVl4GZv2jZFys4D2sY7K5vZh6MqD25TPA95Od+0YzCVq6cTF2IKrOmg==
 
 "@uniswap/sdk@file:../v2-sdk":
-  version "3.0.2"
+  version "1.0.0"
   dependencies:
     "@uniswap/v2-core" "^1.0.0"
     big.js "^5.2.2"
